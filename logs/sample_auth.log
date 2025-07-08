@@ -1,0 +1,3 @@
+Jul 7 12:01:22 localhost sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/apt install nmap
+Jul 7 12:05:01 localhost useradd rogueuser
+Jul 7 12:06:15 localhost sudo: user2 : TTY=pts/0 ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/wireshark
